@@ -1,2 +1,2 @@
 # cryptography_homeworks
-my cryptography's homeworks
+Coursera: Cryptography I course's assignment solutions
